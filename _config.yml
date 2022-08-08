@@ -1,0 +1,24 @@
+title: Jekyll theme boilerplate
+author:
+  name: SAIFAS
+copyright: © SAIFAS
+version: 0.1.0
+lang: en_US
+author: SAIFAS
+email: jekyll@saifas.info
+about: Jekyll theme boilerplate
+
+# Build settings
+
+gems:
+
+sass:
+  sass_dir: /_sass/
+
+assets_root_path: /assets/
+assets_styles_path: /assets/sass/styles.css
+
+layout: 
+  header:
+    logo:
+      path: 
