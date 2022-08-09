@@ -22,3 +22,6 @@ layout:
   header:
     logo:
       path: 
+  footer:
+    contact_us: true
+    form_url: 

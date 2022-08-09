@@ -12,7 +12,7 @@ window.onload = function () {
 /// contact form
 
 $(document).ready(function(){
-	$('.conctact-us-btn').on('click', function(e){
+	$('.contact-us__btn').on('click', function(e){
 		e.preventDefault();
 		$('#modal').fadeIn(100);
 		$('.modalBody').slideDown(300);
