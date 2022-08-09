@@ -5,5 +5,17 @@
       Contact us
     </div>
   {% endif %}
+  <div class="watermark">
+    {% if site.layout.footer.socials %}
+      <div class="socials">
+        {% for link in site.layout.footer.socials  %}
+          <a target="_blank" href="{{ link.url }}">
+            <i class="fab fa-{{ link.name }} fa-lg"></i>
+          </a>
+        {% endfor %}
+      </div>
+    {% endif %}
+    {{ site.copyright }}
+  </div>
 </footer>
 {% include page/footer/contact-us-modal.html %}

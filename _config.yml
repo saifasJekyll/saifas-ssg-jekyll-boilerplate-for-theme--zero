@@ -24,4 +24,17 @@ layout:
       path: 
   footer:
     contact_us: true
-    form_url: 
+    form_url:
+    socials:
+      - 
+        name: github
+        url: /
+      -
+        name: facebook
+        url: /
+      -
+        name: linkedin
+        url: /
+      -
+        name: twitter
+        url: /
