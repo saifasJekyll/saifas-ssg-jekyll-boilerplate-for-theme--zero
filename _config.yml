@@ -8,8 +8,6 @@ author: SAIFAS
 email: jekyll@saifas.info
 about: Jekyll theme boilerplate
 
-# Build settings
-
 gems:
 
 sass:
