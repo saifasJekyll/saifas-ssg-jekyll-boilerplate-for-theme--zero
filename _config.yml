@@ -22,6 +22,10 @@ layout:
   header:
     logo:
       path: 
+    links:
+      -
+        title: Home
+        url: /
   footer:
     contact_us: true
     form_url:

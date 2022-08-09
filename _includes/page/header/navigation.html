@@ -1,0 +1,5 @@
+<nav class="header-navbar">
+  {% for link in site.layout.header.links %}
+    <a href="{{ link.url }}">{{ link.title }}</a>
+  {% endfor %}
+</nav>
