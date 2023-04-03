@@ -1,9 +1,18 @@
-# SAIFAS Jekyll them-boilerplate
+# SAIFAS Jekyll Boilerplate for any new Theme
 
-#jekyll-theme-boilerplate
+#jekyll_boilerplate_theme
 
-[Documentation](https://github.com/JekyllGO/saifas-ssg-jekyll-theme-boilerplate-doc)
+[Documentation](https://github.com/saifasJekyll/saifas-ssg-jekyll-boilerplate-theme--doc)
 
-This repository contains a boilerplate for working on creating themes for various areas. Starter theme contains a default layout, header and footer.
+This repository contains a `boilerplate code` 
+
+which could be used to create any new `Jekyll Theme` 
+
+for any specific `Jekyll-based Website`. 
+
+Starter `Boilerplate Theme` contains defaults for:
+- layout
+- header
+- footer
 
 
