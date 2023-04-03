@@ -8,7 +8,7 @@ This repository contains a `boilerplate code`
 
 which could be used to create any new `Jekyll Theme` 
 
-for any specific `Jekyll-based Website`. 
+for any specific `Jekyll-based App` / `Jekyll-based Website`. 
 
 Starter `Boilerplate Theme` contains defaults for:
 - layout
