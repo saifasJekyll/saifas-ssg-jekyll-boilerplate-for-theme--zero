@@ -1,4 +1,4 @@
-# SAIFAS Jekyll Boilerplate for any new Theme
+# SAIFAS Jekyll - Boilerplate for any new Theme
 
 #jekyll_boilerplate_theme
 
